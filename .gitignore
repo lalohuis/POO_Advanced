@@ -1,0 +1,23 @@
+#Eclipse files
+.project
+.classpath
+.settings/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+#BlueJ files
+*.ctxt
+
+# Mobile Tools fot Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
